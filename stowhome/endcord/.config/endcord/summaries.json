@@ -1,0 +1,32 @@
+[
+  {
+    "guild_id": "628978428019736619",
+    "channels": [
+      {
+        "channel_id": "1370989294843465758",
+        "summaries": [
+          {
+            "message_id": "1449815700012269681",
+            "topic": "CMOS Reset",
+            "description": "Discussion about resetting BIOS/UEFI factory settings and fixing fan issues."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "guild_id": "89778537522802688",
+    "channels": [
+      {
+        "channel_id": "599498652238479517",
+        "summaries": [
+          {
+            "message_id": "1449796571867906059",
+            "topic": "Prospecting System",
+            "description": "Discussion about prospecting a system with 4 types of rings and the possibility of finding a platinum hotspot."
+          }
+        ]
+      }
+    ]
+  }
+]

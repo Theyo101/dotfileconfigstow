@@ -1,0 +1,128 @@
+{
+  "/usr/bin/syncthingserve": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/gnome-keyring-daemon": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/dbus-broker-launch": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/hypridle": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/mako": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/swaybg": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/swayosd-server": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/fcitx5": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/walker": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/python3/usr/bin/uwsmauxapp-daemon": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/python3/usr/share/system-config-printer/applet.py": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/pipewire": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/wireplumber": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/proc/self/exe": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/pipewire-pulse": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/ghostty": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/bash": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/waybar": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/bin/sh/usr/bin/xdg-open/tmp/aerc-718660907/aerc-2726447039.asc": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "nvim/tmp/aerc-718660907/aerc-2726447039.asc": [
+    null,
+    null,
+    null,
+    1765736476
+  ],
+  "/usr/bin/endcord": [
+    null,
+    null,
+    null,
+    1765736476
+  ]
+}
